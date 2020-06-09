@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="south">South Indian Food</string>
+    <string name="south1">South Indian Food Menu</string>
+    <string name="Srno">Sr.no</string>
+    <string name="picture">Picture</string>
+    <string name="name">Name</string>
+    <string name="click">Click Here</string>
+</resources>
